@@ -1,0 +1,49 @@
+_repo: A-Lear-of-the-Steppes-etc_52642
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Garnett, Edward
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '34360'
+    url: http://www.gutenberg.org/2009/agents/34360
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Toergenev, Ivan
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2016-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into English'
+- GITenberg
+tableOfContents: A Lear of the steppes -- Faust -- Acia.
+title: A Lear of the Steppes, etc.
+url: http://www.gutenberg.org/ebooks/52642
