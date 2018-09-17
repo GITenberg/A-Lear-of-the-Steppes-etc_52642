@@ -1,5 +1,5 @@
 _repo: A-Lear-of-the-Steppes-etc_52642
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Garnett, Edward
@@ -17,6 +17,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Constance_Garnett
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+covers:
+- cover_type: archival
+  image_path: 52642-h/images/cover.jpg
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52642#A-Lear-of-the-Steppes-etc
 gutenberg_issued: '2016-07-26'
 gutenberg_type: Text
 identifiers:
